@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" /> </p>
 
-- 🔭 I’m currently working on [Self-Driving Cars](https://github.com/users/yakshasj/projects/2)
+- 🔭 I’m currently working on [Drive.ai: Car of the Future](https://github.com/users/yakshasj/projects/2)
 
 - 🌱 I’m currently learning **Convolutional Neural Networks (CNN)**
 
@@ -25,13 +25,16 @@
 # My public works
 - 👨‍💻 All of my projects are available [here](https://github.com/yakshasj?tab=repositories)
 
+# My Profile Stats
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yakshasj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="yakshasj" />
 </p>
 
+# Connect with me
 <p align="center">
   <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
 <a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
-  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="32" width="32" /></a>
+  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="28" width="28" /></a>
 </p>

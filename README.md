@@ -1,93 +1,28 @@
-<!--
-**yakshasj/yakshasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">O Hai! 👋, I'm Yaksha SJ</h1>
+<h3 align="center">A DeepLearning Engineer, passionate about building Intelligent Systems and working Hard to Self-Driving Car into Reality</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" /> </p>
 
-🔭 I’m Deep Learning Engineer & AI enthusiast
-🌱 I’m currently learning Convolutional Neural Networks (CNN)
- 👯 I’m looking to collaborate on Machine Learning/Deep Learning/Computer Vision Projects
- 🤔 I’m looking for help with Self-Driving Cars
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-  -
- 😄 Pronouns: He/His
- ⚡ Fun fact: I am not even from Computer Science Engineering
- -->
-<h1 align="center">O Hai! 👋, I'm Yaksha SJ </h1>
-<h3 align="center">A DeepLearning Engineer,  passionate about building Intelligent Systems and working Hard to Self-Driving Car into Reality
-<p align="center">
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jquery.svg" alt="jquery"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nestjs.svg" alt="NestJS"  width="20" height="20" />
- <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="20" height="20" />
- <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" height="20"/>
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dot-net.svg" alt=".Net" width="20" height="20"/> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/go.svg" alt="Go" width="20" height="20"/> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" alt="JAVA" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" />
- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="20" height="20" />
- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/prometheus.svg" alt="prometheus" width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/puppet.svg" alt="puppet" width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/mongodb.svg" alt="mongodb"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/redis.svg" alt="redis"  width="20" height="20" /> 
- <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/postgreesql.svg" alt="postgresql"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/firebase.svg" alt="firebase"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pytorch.svg" alt="pytorch"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/tensorflow.svg" alt="TensorFlow"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachecassandra.svg" alt="apache cassandra"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/influxdb.svg" alt="influxdb"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/graphql.svg" alt="graphql"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/octopusdeploy.svg" alt="octopus"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jenkinsx.svg" alt="jenkinsxfull stac"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" />
- <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ansible.svg" alt="ansible"  width="20" height="20" /> 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachekafka.svg" alt="Kafka"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/auth0.svg" alt="Auth0"  width="20" height="20" />
- <img src="https://img.icons8.com/dusk/48/000000/babel.svg" alt="Babel" width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cloudbees.svg" alt="cloudbees"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/confluence.svg" alt="confluence"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/consul.svg" alt="consul"  width="20" height="20" />
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="20" height="20" />
- <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
- <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="20" height="20" />
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/helm.svg" alt="Helm"  width="20" height="20" />
-</p>
+- 🔭 I’m currently working on [Self-Driving Cars](https://github.com/users/yakshasj/projects/2)
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
- <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
-# My public works
-- 👨‍💻 All of my projects are available [here](https://github.com/yakshasj?tab=repositories)
+- 🌱 I’m currently learning **Convolutional Neural Networks (CNN)**
 
+- 👯 I’m looking to collaborate on [Machine Learning/Deep Learning/Computer Vision Projects](https://github.com/users/yakshasj/projects/2)
 
+- 🤝 I’m looking for help with [Self-Driving Cars](https://github.com/users/yakshasj/projects/2)
 
-# Reach me
-- 💬 Ask me about **anything**
-- 📫 How to reach me **[yakshasj1999@gmail.com](mailto:yakshasj1999@gmail.com)
-- LinkedIn [@yakshasj](https://www.linkedin.com/in/yaksha-sj/)
+- 💬 Ask me about **Machine Learning/Deep Learning/Computer Vision Projects**
 
+- 📫 How to reach me **yakshasj1999@gmail.com**
 
+- ⚡ Fun fact **I am not even from Computer Science Engineering**
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yakshasj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="ijelliti" />
-</p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact&hide=html" alt="yakshasj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshasj&show_icons=true" alt="yakshasj" /></p>
 
 <p align="center">
-  <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
-  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="32" width="32" /></a>
- 
-
+<a href="https://linkedin.com/in/yakshasj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yakshasj" height="30" width="30" /></a>
 </p>

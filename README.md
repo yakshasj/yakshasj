@@ -1,5 +1,5 @@
 <!--
-**ijelliti/ijelliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yakshasj/yakshasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ibrahim Jelliti </h1>
-<h3 align="center">A Full-Stack Software Engineer, passionate Data Scientist and Open Source contributor From Tunisia
+<h1 align="center">Hi 👋, I'm Yaksha SJ </h1>
+<h3 align="center">A DeepLearning Engineer, passionate about building Intelligent Systems and Open Source developer
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
@@ -65,30 +65,28 @@ Here are some ideas to get you started:
 </p>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
- <img src="https://komarev.com/ghpvc/?username=ijelliti" alt="ijelliti" />
+ <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
 # My public workds
-- 👨‍💻 All of my projects are available [here](https://github.com/ijelliti?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/yakshasj?tab=repositories)
 
-# My Last Blog posts
-- [My Take towards CKA & CKAD + September Curriculum Update Tips](https://www.ibrahimjelliti.com/my-take-towards-cka-ckad-september-curriculum-update-tips/)
+
 
 # Reach me
 - 💬 Ask me about **anything**
-- 📫 How to reach me **[contact@ibrahimjelliti.com](mailto:contact@ibrahimjelliti.com)
-- Twitter [@IbrahimJelliti](https://www.twitter/IbrahimJelliti)
-- LinkedIn [@ijelliti](https://www.linkedin.com/in/ijelliti)
+- 📫 How to reach me **[contact@yakshasj.com](mailto:yakshasj1999@gmail.com)
+- LinkedIn [@yakshasj](https://www.linkedin.com/in/yaksha-sj/)
 
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ijelliti&show_icons=true" alt="ijelliti" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijelliti&layout=compact" alt="ijelliti" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yakshasj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="ijelliti" />
 </p>
 
 
 <p align="center">
-  <a href="https://www.ibrahimjelliti.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://www.ibrahimjelliti.com/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/ijelliti/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ijelliti/" height="32" width="32" /></a>
- <a href="https://twitter.com/IbrahimJelliti" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/IbrahimJelliti" height="32" width="32" /></a>
+  <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
+ 
 
 </p>

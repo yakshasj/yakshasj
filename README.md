@@ -3,18 +3,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Full-Stack Software Engineer and Data-Scientist
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m Deep Learning Engineer & AI enthusiast
+- 🌱 I’m currently learning Convolutional Neural Networks (CNN)
+- 👯 I’m looking to collaborate on Machine Learning/Deep Learning/Computer Vision Projects
+- 🤔 I’m looking for help with Self-Driving Cars
 - 💬 Ask me about ...
 - 📫 How to reach me: 
   -
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am not even from Computer Science Engineering
 -->
 <h1 align="center">Hi 👋, I'm Yaksha SJ </h1>
-<h3 align="center">A DeepLearning Engineer, passionate about building Intelligent Systems and Open Source developer
+<h3 align="center">A DeepLearning Engineer,  passionate about building Intelligent Systems and Open Source developer
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
 <a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
+  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="32" width="32" /></a>
  
 
 </p>

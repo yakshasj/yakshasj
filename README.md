@@ -12,9 +12,9 @@ Here are some ideas to get you started:
   -
  😄 Pronouns: He/His
  ⚡ Fun fact: I am not even from Computer Science Engineering
- 
+ -->
 <h1 align="center">O Hai! 👋, I'm Yaksha SJ </h1>
-<h3 align="center">A DeepLearning Engineer,  passionate about building Intelligent Systems and Open Source developer
+<h3 align="center">A DeepLearning Engineer,  passionate about building Intelligent Systems and working Hard to Self-Driving Car into Reality
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>

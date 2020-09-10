@@ -3,17 +3,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Deep Learning Engineer & AI enthusiast
-- 🌱 I’m currently learning Convolutional Neural Networks (CNN)
-- 👯 I’m looking to collaborate on Machine Learning/Deep Learning/Computer Vision Projects
-- 🤔 I’m looking for help with Self-Driving Cars
+🔭 I’m Deep Learning Engineer & AI enthusiast
+🌱 I’m currently learning Convolutional Neural Networks (CNN)
+ 👯 I’m looking to collaborate on Machine Learning/Deep Learning/Computer Vision Projects
+ 🤔 I’m looking for help with Self-Driving Cars
 - 💬 Ask me about ...
 - 📫 How to reach me: 
   -
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am not even from Computer Science Engineering
--->
-<h1 align="center">Hi 👋, I'm Yaksha SJ </h1>
+ 😄 Pronouns: He/His
+ ⚡ Fun fact: I am not even from Computer Science Engineering
+ 
+<h1 align="center">O Hai! 👋, I'm Yaksha SJ </h1>
 <h3 align="center">A DeepLearning Engineer,  passionate about building Intelligent Systems and Open Source developer
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
@@ -66,14 +66,14 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
  <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
-# My public workds
+# My public works
 - 👨‍💻 All of my projects are available [here](https://github.com/yakshasj?tab=repositories)
 
 
 
 # Reach me
 - 💬 Ask me about **anything**
-- 📫 How to reach me **[contact@yakshasj.com](mailto:yakshasj1999@gmail.com)
+- 📫 How to reach me **[yakshasj1999@gmail.com](mailto:yakshasj1999@gmail.com)
 - LinkedIn [@yakshasj](https://www.linkedin.com/in/yaksha-sj/)
 
 

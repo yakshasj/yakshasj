@@ -1,5 +1,5 @@
 <h1 align="center">O Hai! 👋, I'm Yaksha SJ</h1>
-<h3 align="center">A DeepLearning Engineer, passionate about building Intelligent Systems and working Hard to Self-Driving Car into Reality</h3>
+<h3 align="center">A DeepLearning Engineer, passionate about building Intelligent Systems and working Hard to turn Self-Driving Car into Reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" /> </p>
 

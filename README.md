@@ -22,7 +22,7 @@
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
- <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
  
 # <h1 align="center"> My public works
 - 👨‍💻 All of my projects are available [here](https://github.com/yakshasj?tab=repositories)

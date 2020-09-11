@@ -21,7 +21,12 @@
 - ⚡ Fun fact **I am not even from Computer Science Engineering**
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)<br>
+
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h3> 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yakshasj" alt="yakshasj" />
  
 # <h1 align="center"> My public works
@@ -31,7 +36,7 @@
 
 <p align="center"> 
   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="yakshasj" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="yakshasj" />
 </p>
 
 
@@ -49,6 +54,9 @@
 
 
 
+<p align='center'>
+  </a> hipsters and nerds come here o/
+</p>
 
 
 <p align='center'>

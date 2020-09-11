@@ -30,16 +30,10 @@
 # <h1 align="center"> My Profile Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yakshasj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshasj&layout=compact" alt="yakshasj" />
 </p>
 
-# <h1 align="center"> Connect with me
-<p align="center">
-  <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
-  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="26" width="28" /></a>
-</p>
 
 ### :zap: Recent Activity
 
@@ -53,6 +47,25 @@
 
 ---
 
-<!--
-**jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+<p align='center'>
+  💻 My workspace specs<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%208th%20Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+ </p>
+
+<!-- <details align='center'>
+  <summary>:zap: My workspace specs</summary>
+</details>-->
+
+# <h1 align="center"> Connect with me
+<p align="center">
+  <a href="https://www.facebook.com/yaksha.sj.1/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="https://www.facebook.com/yaksha.sj.1/" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/yaksha-sj/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="https://www.linkedin.com/in/yaksha-sj/" height="32" width="32" /></a>
+  <a href="https://discord.gg/vtSAYHz" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" alt="https://discord.gg/vtSAYHz" height="26" width="28" /></a>
+</p>
